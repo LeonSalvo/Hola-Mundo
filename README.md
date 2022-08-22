@@ -1,2 +1,1 @@
-# Hola-Mundo
-Primer ejercicio de repositorios
+León Salvo
